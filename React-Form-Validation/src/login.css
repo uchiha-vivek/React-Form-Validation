@@ -1,0 +1,19 @@
+.form{
+    align-items:center;
+    justify-content:center;
+}
+
+.login{
+   margin-left:22px;
+   margin-right:22px;
+}
+
+.password{
+
+    margin-rigth:22px;
+
+}
+
+.button{
+    margin-left:22px;
+}

@@ -1,0 +1,18 @@
+.App{
+  background-color:aqua;
+  border-radius: 15px;
+  height:200px;
+   
+}
+
+
+.form{
+     
+  justify-content:center;
+  display:flex;
+}
+
+.id{
+  margin-left: 22px;
+  margin-right: 22px;
+}
